@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "640620065482",
+    "firebase_url": "https://beautyshare-75cb3.firebaseio.com",
+    "project_id": "beautyshare-75cb3",
+    "storage_bucket": "beautyshare-75cb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640620065482:android:a890e0e168e73b8d",
+        "android_client_info": {
+          "package_name": "com.bluetime.beautyshare3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640620065482-5c3e6kr7oaknehjv8p7ku5aauacj2968.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNXryK2M7D_RdhKUP5YeGcgi7pvQJm1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640620065482:android:42bda00dda18a3ed",
+        "android_client_info": {
+          "package_name": "come.bluetime.beautyshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640620065482-5c3e6kr7oaknehjv8p7ku5aauacj2968.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSNXryK2M7D_RdhKUP5YeGcgi7pvQJm1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
